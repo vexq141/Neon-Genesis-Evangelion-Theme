@@ -1,50 +1,62 @@
 {
   "name": "Neon Genesis",
-  "description": "Evangelion theme.",
+  "description": "Evangelion AMOLED theme.",
   "authors": [
     { "name": "vexq141" }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#6A5CFF"],
-
-    "TEXT_NORMAL": ["#E6E6E6"],
-    "TEXT_MUTED": ["#A0A0A0"],
-    "TEXT_LINK": ["#6A5CFF"],
-
-    "INTERACTIVE_NORMAL": ["#E6E6E6"],
-    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
-    "INTERACTIVE_MUTED": ["#777777"],
-
-    "BACKGROUND_PRIMARY": ["#0C0F1A"],
-    "BACKGROUND_SECONDARY": ["#0C0F1A"],
-    "BACKGROUND_SECONDARY_ALT": ["#0C0F1A"],
-    "BACKGROUND_TERTIARY": ["#0C0F1A"],
-    "BACKGROUND_FLOATING": ["#0C0F1A"],
-    "BACKGROUND_NESTED_FLOATING": ["#0C0F1A"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#0C0F1A"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#0C0F1A"],
-    "CHAT_BACKGROUND": ["#0C0F1A"],
-
+    "BACKGROUND_PRIMARY": ["#0B0E1A"],
+    "BACKGROUND_SECONDARY": ["#0B0E1A"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#121212"],
+    "BACKGROUND_FLOATING": ["#0B0E1A"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#1A1E2E"],
     "BACKGROUND_MODIFIER_SELECTED": ["#1A1E2E"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#0C0F1A"]
+    "BACKGROUND_MODIFIER_ACCENT": ["#121212"],
+
+    "CHAT_BACKGROUND": ["#0B0E1A"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
+
+    "TEXT_NORMAL": ["#EDEDED"],
+    "TEXT_MUTED": ["#9A9A9A"],
+    "TEXT_LINK": ["#6A5CFF"],
+    "TEXT_PRIMARY": ["#EDEDED"],
+    "TEXT_SECONDARY": ["#B0B0B0"],
+    "TEXT_WARNING": ["#FFFFFF"],
+    "TEXT_DANGER": ["#FFFFFF"],
+
+    "INTERACTIVE_NORMAL": ["#EDEDED"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#555555"],
+
+    "STATUS_ONLINE": ["#9AD93A"],
+    "STATUS_IDLE": ["#FFBC5B"],
+    "STATUS_DND": ["#C43A3A"],
+    "STATUS_OFFLINE": ["#555555"],
+
+    "SCROLLBAR_THIN_THUMB": ["#6A5CFF"],
+    "SCROLLBAR_THIN_TRACK": ["#000000"],
+
+    "DIVIDER_SUBTLE": ["#000000"],
+    "DIVIDER_STRONG": ["#000000"]
   },
   "rawColors": {
     "BRAND_360": "#6A5CFF",
     "BRAND_500": "#6A5CFF",
-
     "GREEN_360": "#9AD93A",
 
-    "PRIMARY_600": "#0C0F1A",
-    "PRIMARY_630": "#0C0F1A",
-    "PRIMARY_660": "#0C0F1A",
-    "PRIMARY_700": "#0C0F1A",
-    "PRIMARY_800": "#0C0F1A"
+    "PRIMARY_600": "#0B0E1A",
+    "PRIMARY_630": "#0B0E1A",
+    "PRIMARY_660": "#0B0E1A",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000"
   },
   "background": {
     "url": "https://i.imgur.com/nElIwXL.png",
-    "alpha": 0.28,
-    "color": "#0C0F1A"
+    "blur": 0.4,
+    "alpha": 0.22,
+    "size": "cover",
+    "position": "center"
   },
   "spec": 2
 }
