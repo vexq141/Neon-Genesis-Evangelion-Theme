@@ -5,6 +5,8 @@
     { "name": "vexq141" }
   ],
   "semanticColors": {
+    "HEADER_PRIMARY": ["#6A5CFF"],
+
     "TEXT_NORMAL": ["#E6E6E6"],
     "TEXT_MUTED": ["#A0A0A0"],
     "TEXT_LINK": ["#6A5CFF"],
@@ -40,8 +42,8 @@
     "PRIMARY_800": "#0C0F1A"
   },
   "background": {
-    "url": "https://imgur.com/a/83S1QU0",
-    "alpha": 0.32,
+    "url": "https://i.imgur.com/nElIwXL.png",
+    "alpha": 0.28,
     "color": "#0C0F1A"
   },
   "spec": 2
