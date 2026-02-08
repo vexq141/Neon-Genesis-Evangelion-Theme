@@ -1,0 +1,48 @@
+{
+  "name": "Neon Genesis",
+  "description": "Evangelion theme.",
+  "authors": [
+    { "name": "vexq141" }
+  ],
+  "semanticColors": {
+    "TEXT_NORMAL": ["#E6E6E6"],
+    "TEXT_MUTED": ["#A0A0A0"],
+    "TEXT_LINK": ["#6A5CFF"],
+
+    "INTERACTIVE_NORMAL": ["#E6E6E6"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#777777"],
+
+    "BACKGROUND_PRIMARY": ["#0C0F1A"],
+    "BACKGROUND_SECONDARY": ["#0C0F1A"],
+    "BACKGROUND_SECONDARY_ALT": ["#0C0F1A"],
+    "BACKGROUND_TERTIARY": ["#0C0F1A"],
+    "BACKGROUND_FLOATING": ["#0C0F1A"],
+    "BACKGROUND_NESTED_FLOATING": ["#0C0F1A"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0C0F1A"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0C0F1A"],
+    "CHAT_BACKGROUND": ["#0C0F1A"],
+
+    "BACKGROUND_MODIFIER_ACTIVE": ["#1A1E2E"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#1A1E2E"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0C0F1A"]
+  },
+  "rawColors": {
+    "BRAND_360": "#6A5CFF",
+    "BRAND_500": "#6A5CFF",
+
+    "GREEN_360": "#9AD93A",
+
+    "PRIMARY_600": "#0C0F1A",
+    "PRIMARY_630": "#0C0F1A",
+    "PRIMARY_660": "#0C0F1A",
+    "PRIMARY_700": "#0C0F1A",
+    "PRIMARY_800": "#0C0F1A"
+  },
+  "background": {
+    "url": "https://imgur.com/a/83S1QU0",
+    "alpha": 0.32,
+    "color": "#0C0F1A"
+  },
+  "spec": 2
+}
